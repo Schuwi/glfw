@@ -1,5 +1,9 @@
 # GLFW 3.3 for Go [![Build Status](https://travis-ci.org/go-gl/glfw.svg?branch=master)](https://travis-ci.org/go-gl/glfw) [![GoDoc](https://godoc.org/github.com/go-gl/glfw/v3.3/glfw?status.svg)](https://godoc.org/github.com/go-gl/glfw/v3.3/glfw)
 
+## Forked by Schuwi
+
+This fork is to merge the implementation of the new GLFW Vulkan functions from [vulkan-go/glfw](https://github.com/vulkan-go/glfw) into the current [go-gl/glfw](https://github.com/go-gl/glfw) codebase.
+
 ## Installation
 
 * GLFW C library source is included and built automatically as part of the Go package. But you need to make sure you have dependencies of GLFW:
